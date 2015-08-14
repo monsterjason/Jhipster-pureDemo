@@ -1,0 +1,2 @@
+# Jhipster-pureDemo
+Jhipster-pureDemo
